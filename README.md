@@ -1,6 +1,6 @@
-# budget_app
+# Budget Planner App
 
-A app for managing your monthly budget
+An app for managing your monthly budgets.
 
 ## Build process
 
