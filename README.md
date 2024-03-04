@@ -18,7 +18,7 @@ When first opened: ![](https://i.imgur.com/SqyuyrK.png)
 Password: ![](https://i.imgur.com/ar8qVZF.png)
 
 
-Adding Data/Viewing: ![](https://i.imgur.com/3p3IMNV.png)
+Adding/Viewing Data: ![](https://i.imgur.com/3p3IMNV.png)
 
 
 Editing data/Language change: ![](https://i.imgur.com/VYimQUL.png)
