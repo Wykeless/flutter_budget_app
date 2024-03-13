@@ -6,7 +6,7 @@ An app for managing your monthly budgets.
 - State management: [Riverpod](https://riverpod.dev/docs/introduction/getting_started)
 - Database: [Text files](https://api.dart.dev/stable/3.3.1/dart-io/File-class.html)
 
-## Build process
+## Build Process (To run the app)
 
 1. Follow the [Flutter Guide](https://flutter.dev/docs/get-started/install) to get started in building with Flutter.
 2. Clone or download the repo.
